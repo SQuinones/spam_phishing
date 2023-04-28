@@ -9,7 +9,7 @@ function Home() {
                 <h1 className="title">Phishing and Spam Detection<br/></h1>
                 <div className='button-wrapper'>
                 <button className='wrapper-text'><Link to='/questions'>Start</Link></button>
-                <button className='wrapper-text'><Link to='/instructions'>How it Works</Link></button>
+                <button className='wrapper-text'><Link to='/instructions'>Introduction</Link></button>
                 </div>
             </div>
         </div>

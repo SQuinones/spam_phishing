@@ -26,7 +26,8 @@ span{
 
 .answer-section{
     display: flex;
-    justify-content: space-between;
+    flex-direction: column;
+    justify-content: space-around;
     margin-top: 3rem;
 }
 
