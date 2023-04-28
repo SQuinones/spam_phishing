@@ -3,7 +3,7 @@ import { HashRouter, Route, Routes} from 'react-router-dom';
 
 import Home from './pages/home';
 import Questions from './pages/question';
-import Instructions from './pages/Instructions';
+import Instructions from './pages/introductions';
 
 function App() {
   return (
